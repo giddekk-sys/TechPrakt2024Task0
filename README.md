@@ -31,5 +31,6 @@
 - [x] git remote add
 - [x] git push
 - [x] git pull
-- [x] git branch
-Виконав: Іваненко Іван (тут впишіть ваше прізвище та ім’я)
+- [] git branch
+      
+Виконав: Двораковський Тарас
